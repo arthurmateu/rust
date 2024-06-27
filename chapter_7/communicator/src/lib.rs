@@ -1,14 +1,12 @@
-mod client;
-
-mod network;
+pub mod client;
+pub mod network;
 
 #[cfg(test)]
 mod tests {
-    use super::*;
+    use super::client;
 
     #[test]
     fn it_works() {
-        let result = add(2, 2);
-        assert_eq!(result, 4);
+        client::connect();
     }
 }

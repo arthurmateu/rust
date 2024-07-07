@@ -1,0 +1,1 @@
+/home/arthur/Projects/learning/rust/chapter_12/minigrep/target/debug/minigrep: /home/arthur/Projects/learning/rust/chapter_12/minigrep/src/lib.rs /home/arthur/Projects/learning/rust/chapter_12/minigrep/src/main.rs
